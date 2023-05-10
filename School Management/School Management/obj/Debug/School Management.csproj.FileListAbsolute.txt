@@ -1,0 +1,47 @@
+G:\Esandu\Esoft\Pulindu\School Management\School Management\bin\Debug\School Management.exe.config
+G:\Esandu\Esoft\Pulindu\School Management\School Management\bin\Debug\School Management.exe
+G:\Esandu\Esoft\Pulindu\School Management\School Management\bin\Debug\School Management.pdb
+G:\Esandu\Esoft\Pulindu\School Management\School Management\obj\Debug\School Management.csprojResolveAssemblyReference.cache
+G:\Esandu\Esoft\Pulindu\School Management\School Management\obj\Debug\School_Management.Add_teacher.resources
+G:\Esandu\Esoft\Pulindu\School Management\School Management\obj\Debug\School_Management.Form1.resources
+G:\Esandu\Esoft\Pulindu\School Management\School Management\obj\Debug\School_Management.login.resources
+G:\Esandu\Esoft\Pulindu\School Management\School Management\obj\Debug\School_Management.New_Student.resources
+G:\Esandu\Esoft\Pulindu\School Management\School Management\obj\Debug\School_Management.Properties.Resources.resources
+G:\Esandu\Esoft\Pulindu\School Management\School Management\obj\Debug\School_Management.Upgrade_Student.resources
+G:\Esandu\Esoft\Pulindu\School Management\School Management\obj\Debug\School_Management.View_Teacher.resources
+G:\Esandu\Esoft\Pulindu\School Management\School Management\obj\Debug\School_Management.View_Delete_Student.resources
+G:\Esandu\Esoft\Pulindu\School Management\School Management\obj\Debug\School Management.csproj.GenerateResource.Cache
+G:\Esandu\Esoft\Pulindu\School Management\School Management\obj\Debug\School Management.exe
+G:\Esandu\Esoft\Pulindu\School Management\School Management\obj\Debug\School Management.pdb
+G:\Esandu\Esoft\Pulindu - Final Project\School Management\School Management\bin\Debug\School Management.exe.config
+G:\Esandu\Esoft\Pulindu - Final Project\School Management\School Management\obj\Debug\School Management.exe
+G:\Esandu\Esoft\Pulindu - Final Project\School Management\School Management\obj\Debug\School Management.pdb
+G:\Esandu\Esoft\Pulindu - Final Project\School Management\School Management\bin\Debug\School Management.exe
+G:\Esandu\Esoft\Pulindu - Final Project\School Management\School Management\bin\Debug\School Management.pdb
+G:\Esandu\Esoft\Pulindu - Final Project\School Management\School Management\obj\Debug\School Management.csprojResolveAssemblyReference.cache
+G:\Esandu\Esoft\Pulindu - Final Project\School Management\School Management\obj\Debug\School_Management.Add_teacher.resources
+G:\Esandu\Esoft\Pulindu - Final Project\School Management\School Management\obj\Debug\School_Management.Form1.resources
+G:\Esandu\Esoft\Pulindu - Final Project\School Management\School Management\obj\Debug\School_Management.login.resources
+G:\Esandu\Esoft\Pulindu - Final Project\School Management\School Management\obj\Debug\School_Management.New_Student.resources
+G:\Esandu\Esoft\Pulindu - Final Project\School Management\School Management\obj\Debug\School_Management.Properties.Resources.resources
+G:\Esandu\Esoft\Pulindu - Final Project\School Management\School Management\obj\Debug\School_Management.Upgrade_Student.resources
+G:\Esandu\Esoft\Pulindu - Final Project\School Management\School Management\obj\Debug\School_Management.View_Teacher.resources
+G:\Esandu\Esoft\Pulindu - Final Project\School Management\School Management\obj\Debug\School_Management.View_Delete_Student.resources
+G:\Esandu\Esoft\Pulindu - Final Project\School Management\School Management\obj\Debug\School Management.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\bin\Debug\School Management.exe.config
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\bin\Debug\School Management.exe
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\bin\Debug\School Management.pdb
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\obj\Debug\School Management.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\obj\Debug\School Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\obj\Debug\School_Management.Add_teacher.resources
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\obj\Debug\School_Management.Form1.resources
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\obj\Debug\School_Management.login.resources
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\obj\Debug\School_Management.New_Student.resources
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\obj\Debug\School_Management.Properties.Resources.resources
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\obj\Debug\School_Management.Upgrade_Student.resources
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\obj\Debug\School_Management.View_Teacher.resources
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\obj\Debug\School_Management.View_Delete_Student.resources
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\obj\Debug\School Management.csproj.GenerateResource.cache
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\obj\Debug\School Management.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\obj\Debug\School Management.exe
+C:\Users\User\Downloads\SCHOOL\School Management\School Management\obj\Debug\School Management.pdb

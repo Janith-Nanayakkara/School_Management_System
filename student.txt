@@ -1,0 +1,32 @@
+create database student
+
+--------------------------------------------------------------------
+
+create table student1(
+
+StID int NOT NULL IDENTITY(1,1) primary key,
+name varchar(150) NOT NULL,
+guardian varchar(150) NOT NULL,
+gender varchar(20) NOT NULL,
+DOB varchar(100) NOT NULL,
+grade int NOT NULL,
+number bigint NOT NULL,
+adrs varchar(250) NOT NULL
+
+)
+
+----------------------------------------------------------------
+
+
+create table teacher(
+
+TID int IDENTITY(1,1) NOT NULL primary key,
+name varchar(150) NOT NULL,
+
+gender varchar(20) NOT NULL,
+DOB varchar(100) NOT NULL,
+
+number bigint NOT NULL,
+adrs varchar(250) NOT NULL
+
+)
